@@ -38,7 +38,11 @@ jupyter notebook analysis.ipynb
 
 ## Attribution
 
-These were assignments for a graduate Algorithms for Data Science course; the analysis,
-from-scratch implementations, and write-ups are the author's. Datasets are public
+These began as assignments for a graduate Algorithms for Data Science course. All
+**from-scratch algorithm implementations** (Naïve Bayes, SVM via quadratic programming,
+K-Means, PSO) are entirely my own code. The rest of each notebook — EDA, preprocessing,
+model usage, and written analysis — was built out following the course's assignment
+structure and, in places, provided starter code/instructions (e.g. the DCT
+directional-mask function, the line-of-sight simulation harness). Datasets are public
 (UCI Wine Quality, MNIST via OpenML, California Housing, Breast Cancer Wisconsin, UCI
 Wholesale Customers).
